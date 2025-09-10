@@ -1,7 +1,5 @@
 # Deep-Neural-Network-for-Breast-Cancer-Classification
 
-# Deep Neural Network for Breast Cancer Classification
-
 A PyTorch implementation of a deep neural network for binary classification of breast cancer cells using the Wisconsin Diagnostic Breast Cancer Dataset.
 
 ## Project Overview
@@ -113,15 +111,11 @@ breast-cancer-classification/
 - [ ] Include additional evaluation metrics (precision, recall, F1-score)
 - [ ] Deploy model as a web application
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - UCI Machine Learning Repository for the breast cancer dataset
 - PyTorch and Keras communities for excellent documentation
-- Medical research community for advancing cancer diagnosis through AI
 
 ## Contact
 
