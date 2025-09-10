@@ -120,6 +120,3 @@ breast-cancer-classification/
 ## Contact
 
 Feel free to reach out for questions or collaboration opportunities:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
